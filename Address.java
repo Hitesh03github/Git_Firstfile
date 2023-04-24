@@ -10,7 +10,7 @@ import javax.persistence.Table;
 @Table(name = "address")
 public class Address {
 
-	// control + shift + f for formatted the code
+	// control + shift + f for formatted the code and
 	// id,city,state,country,pincode
 	@Id
 	@GeneratedValue(strategy = GenerationType.AUTO)
