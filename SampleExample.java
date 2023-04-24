@@ -10,7 +10,7 @@ public class SampleExample {
 	@SuppressWarnings("deprecation")
 	public static void main(String[] args) {
 
-		// step-1-
+		// step-11
 		Configuration configuration = new Configuration();
 		configuration.configure("hibernate.cfg.xml");
 
